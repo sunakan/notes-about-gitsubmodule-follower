@@ -1,3 +1,3 @@
 def hello
-  "Hello World"
+  "Hello World 2"
 end
