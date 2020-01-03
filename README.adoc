@@ -1,0 +1,8 @@
+= Notes about git submodule
+
+- This is library side
+
+=== Reference
+
+* link:https://qiita.com/sotarok/items/0d525e568a6088f6f6bb[Git submodule の基礎]
+* link:https://qiita.com/kinpira/items/3309eb2e5a9a422199e9[Git submoduleの押さえておきたい理解ポイントのまとめ]
