@@ -1,3 +1,3 @@
 def hello
-  "Hello World 3"
+  "Hello World 4 from appside"
 end
